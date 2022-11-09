@@ -26,4 +26,4 @@ function merge(source, target) {
   return c;
 }
 
-merge(a, b);
+merge(b, a);
